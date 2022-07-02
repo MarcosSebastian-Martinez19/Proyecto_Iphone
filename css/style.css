@@ -1,0 +1,75 @@
+.Iphone {
+    background-color: red;
+    width: 282px;
+    height: 570px;
+    border-width: 5px;
+    border-style: outset;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.camera {
+    background-color: lightpink;
+    width: 141px;
+    height: 141px;
+    border-width: 3px;
+    border-style: outset;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+#Cam1 {
+    width: 60px;
+    height: 60px;
+    background: black;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    left: 5px;
+    top: 2px;
+    border-style: outset;
+}
+#Cam2 {
+    width: 60px;
+    height: 60px;
+    background: black;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: 72px;
+    left: 5px;
+    border-style: outset;
+}
+#Cam3 {
+    width: 60px;
+    height: 60px;
+    background: black;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: absolute;
+    top: 35px;
+    left: 70px;
+    border-style: outset;
+}
+#logo_apple {
+    position: absolute;
+    left: 125px;
+    top: 300px;
+    width: 65px;
+}
